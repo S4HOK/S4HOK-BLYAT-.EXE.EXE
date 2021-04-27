@@ -45,3 +45,11 @@ for i in range (1,11):
 
     Newfolder='InfectedByVoiceVirus' + str(i)
     os.makedir(Newfolder)
+messagebox.showerror(title = 'Лох!', message = 'ТЕБЯ СПАЛИЛИ ЗА ПОРНУХОЙ АЗАЗАЗЗАЗААЗАЗАЗ')
+messagebox.showerror(title = 'Лох!', message = 'ТЕБЯ СПАЛИЛИ ЗА ПОРНУХОЙ АЗАЗАЗЗАЗААЗАЗАЗ')
+messagebox.showerror(title = 'Лох!', message = 'ТЕБЯ СПАЛИЛИ ЗА ПОРНУХОЙ АЗАЗАЗЗАЗААЗАЗАЗ')
+messagebox.showerror(title = 'Лох!', message = 'ТЕБЯ СПАЛИЛИ ЗА ПОРНУХОЙ АЗАЗАЗЗАЗААЗАЗАЗ')
+messagebox.showerror(title = 'Лох!', message = 'ТЕБЯ СПАЛИЛИ ЗА ПОРНУХОЙ АЗАЗАЗЗАЗААЗАЗАЗ')
+messagebox.showerror(title = 'Лох!', message = 'ТЕБЯ СПАЛИЛИ ЗА ПОРНУХОЙ АЗАЗАЗЗАЗААЗАЗАЗ')
+messagebox.showerror(title = 'Лох!', message = 'ТЕБЯ СПАЛИЛИ ЗА ПОРНУХОЙ АЗАЗАЗЗАЗААЗАЗАЗ')
+messagebox.showerror(title = 'Лох!', message = 'ТЕБЯ СПАЛИЛИ ЗА ПОРНУХОЙ АЗАЗАЗЗАЗААЗАЗАЗ')
