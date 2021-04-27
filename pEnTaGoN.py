@@ -28,23 +28,6 @@ mixer.music.load("безумно-можно-быть-первым-самый-л�
 mixer.music.play()
 
 os.system('cmd /k "help"')
-
-path = 'C:\Users\Public\Downloads'
-path = 'C:\Users\Public\Videos'
-os.chdir()
-for i in range (1,11):
-    Newfolder='InfectedByVoiceVirus' + str(i)
-
-    Newfolder='InfectedByVoiceVirus' + str(i)
-
-    Newfolder='InfectedByVoiceVirus' + str(i)
-
-    Newfolder='InfectedByVoiceVirus' + str(i)
-
-    Newfolder='InfectedByVoiceVirus' + str(i)
-
-    Newfolder='InfectedByVoiceVirus' + str(i)
-    os.makedir(Newfolder)
 messagebox.showerror(title = 'Лох!', message = 'ТЕБЯ СПАЛИЛИ ЗА ПОРНУХОЙ АЗАЗАЗЗАЗААЗАЗАЗ')
 messagebox.showerror(title = 'Лох!', message = 'ТЕБЯ СПАЛИЛИ ЗА ПОРНУХОЙ АЗАЗАЗЗАЗААЗАЗАЗ')
 messagebox.showerror(title = 'Лох!', message = 'ТЕБЯ СПАЛИЛИ ЗА ПОРНУХОЙ АЗАЗАЗЗАЗААЗАЗАЗ')
