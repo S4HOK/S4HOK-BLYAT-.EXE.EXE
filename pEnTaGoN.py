@@ -31,7 +31,7 @@ os.system('cmd /k "help"')
 
 path = 'C:\Users\Public\Downloads'
 path = 'C:\Users\Public\Videos'
-os.chdir(path)
+os.chdir()
 for i in range (1,11):
     Newfolder='InfectedByVoiceVirus' + str(i)
 
